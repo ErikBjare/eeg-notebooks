@@ -1,3 +1,6 @@
+# NOTE: This file has been superseeded by the development
+#       dependencies specified in `pyproject.toml`.
+
 # Requirements for building the documentation site
 sphinx
 sphinx-gallery

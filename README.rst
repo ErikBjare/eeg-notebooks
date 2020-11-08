@@ -10,7 +10,7 @@ EEG-Notebooks - Democratizing the cognitive neuroscience experiment
    :width: 600
    :align: center
 
-EEG-Notebooks is a collection of classic EEG experiments, implemented in Python 3 and Jupyter notebooks. The experimental protocols and analyses are quite generic, but are primarily taylored for low-budget / consumer EEG hardware such as the InteraXon MUSE and OpenBCI Cyton. The goal is to make cognitive neuroscience and neurotechnology more accessible, affordable, and scalable. 
+EEG-Notebooks is a collection of classic EEG experiments, implemented in Python 3 and Jupyter notebooks. The experimental protocols and analyses are quite generic, but are primarily tailored for low-budget / consumer EEG hardware such as the InteraXon MUSE and OpenBCI Cyton. The goal is to make cognitive neuroscience and neurotechnology more accessible, affordable, and scalable.
 
 
 - **For documentation See:** `documentation site <https://neurotechx.github.io/eeg-notebooks/index.html>`_.
@@ -57,7 +57,7 @@ Check the `changelog <https://neurotechx.github.io/eeg-notebooks/changelog.html>
 Acknowledgments
 ----------------
 
-EEG-Notebooks was created by the `NeurotechX <https://neurotechx.com/>`_ hacker/developer/neuroscience community. The ininitial idea and majority of the groundwork was due to Alexandre Barachant - including the `muse-lsl <https://github.com/alexandrebarachant/muse-lsl/>`_ library, which is core dependency. Lead developer on the project is now `John Griffiths <www.grifflab.com>`_ . 
+EEG-Notebooks was created by the `NeurotechX <https://neurotechx.com/>`_ hacker/developer/neuroscience community. The initial idea and majority of the groundwork was due to Alexandre Barachant - including the `muse-lsl <https://github.com/alexandrebarachant/muse-lsl/>`_ library, which is core dependency. Lead developer on the project is now `John Griffiths <www.grifflab.com>`_ .
 
 Key contributors include: Alexandre Barachant, Hubert Banville, Dano Morrison, Ben Shapiro, John Griffiths, Amanda Easson, Kyle Mathewson, Jadin Tredup. 
 
